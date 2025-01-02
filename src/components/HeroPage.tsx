@@ -30,7 +30,7 @@ export default function Hero() {
         animate={{ opacity: 1 }}
         transition={{ delay: 0.5, duration: 1 }}
       >
-        I'm Mohamed Frikha, an Experienced Full Stack JavaScript software engineer proficient in Next.js, React.js, Vue.js, and Node.js technologies.
+        I&apos;m Mohamed Frikha, an Experienced Full Stack JavaScript software engineer proficient in Next.js, React.js, Vue.js, and Node.js technologies.
       </motion.p>
       <motion.p
         className="text-lg md:text-2xl text-gray-400 mt-4"
