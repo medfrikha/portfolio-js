@@ -6,9 +6,9 @@ import Experience from "./experience/page";
 export default function Home() {
   return (
     <main className=" flex flex-col  justify-center">
-    <Hero />
-  <Experience />
-  <Projects />
-  </main>
+      <Hero />
+      <Experience />
+      <Projects />
+    </main>
   );
 }

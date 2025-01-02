@@ -1,8 +1,8 @@
 'use client'
-import { Experience } from '../../types';
+
 import { motion } from 'framer-motion';
 
-const experiences: Experience[] = [
+const experiences = [
   {
     role: 'Software Engineer',
     company: 'ZETABOX',
