@@ -1,9 +1,8 @@
 'use client';
 
-import { Project } from '../../types';
 import { motion } from 'framer-motion';
 
-const projects: Project[] = [
+const projects = [
   {
     title: 'Smart Stock Management (SSM)',
     description: 'A stock management app built with Vue.js and Node.js, featuring Big Data analysis and order optimization.',
