@@ -2,7 +2,7 @@
 
 import { motion } from 'framer-motion';
 
-const AnimatedText = ({ text }) => {
+const AnimatedText = ({ text }: {text: string}) => {
   const letters = text.split('');
 
   return (
