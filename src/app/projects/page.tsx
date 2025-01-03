@@ -6,17 +6,17 @@ const projects = [
   {
     title: 'Smart Stock Management (SSM)',
     description: 'A stock management app built with Vue.js and Node.js, featuring Big Data analysis and order optimization.',
-    Link: '',
+    link: '',
   },
   {
     title: 'Cytailor',
     description: 'A cybersecurity web application built with React.js and Node.js.',
-    Link: '',
+    link: '',
   },
   {
     title: 'Meditrouv',
     description: 'A social network for doctors built with Next.js and Node.js.',
-    Link: '',
+    link: '',
   },
 ];
 
